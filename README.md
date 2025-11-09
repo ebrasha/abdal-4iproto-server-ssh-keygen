@@ -2,7 +2,10 @@
 
 A powerful and interactive SSH key generation tool with beautiful progress bar and user-friendly interface.
 
-> **📖 [نسخه فارسی](README.fa.md) | [English Version](README.md)**
+## 📘 Other Languages
+
+- [🇮🇷 Persian - فارسی](README.fa.md)
+
 
 ## 🌟 Features
 
