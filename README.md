@@ -1,5 +1,9 @@
 # 🔐 Abdal 4iProto Server SSH KeyGen
 
+<div align="right">
+  <img src="scr.jpg" alt="Abdal 4iProto Server SSH KeyGen"  >
+</div>
+
 A powerful and interactive SSH key generation tool with beautiful progress bar and user-friendly interface.
 
 ## 📘 Other Languages
